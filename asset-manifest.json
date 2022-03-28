@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Abhishek/static/css/main.4b02be24.css",
-    "main.js": "/Abhishek/static/js/main.74d94137.js",
+    "main.js": "/Abhishek/static/js/main.20f750fc.js",
     "static/js/787.1ed0c42c.chunk.js": "/Abhishek/static/js/787.1ed0c42c.chunk.js",
     "static/media/matchstixx.png": "/Abhishek/static/media/matchstixx.fc40b19d30cd2d28398b.png",
     "static/media/mindamigo.png": "/Abhishek/static/media/mindamigo.574c57621c680bbf3a7a.png",
     "static/media/tm.png": "/Abhishek/static/media/tm.3e61d2f4f215cb57b8aa.png",
-    "static/media/timesheet.png": "/Abhishek/static/media/timesheet.58b56cfdda8056c1664b.png",
+    "static/media/timesheet.png": "/Abhishek/static/media/timesheet.1f4addc1a836dc2a9d55.png",
     "static/media/te.png": "/Abhishek/static/media/te.824d84e28321f4375231.png",
     "static/media/maya.png": "/Abhishek/static/media/maya.93a2daa901b41cefdebc.png",
     "static/media/abhishek.png": "/Abhishek/static/media/abhishek.c2e2402cfcda597dbef8.png",
@@ -40,11 +40,11 @@
     "static/media/ubuntu-greek-700-normal.woff2": "/Abhishek/static/media/ubuntu-greek-700-normal.debd2fb62678f7a002e4.woff2",
     "index.html": "/Abhishek/index.html",
     "main.4b02be24.css.map": "/Abhishek/static/css/main.4b02be24.css.map",
-    "main.74d94137.js.map": "/Abhishek/static/js/main.74d94137.js.map",
+    "main.20f750fc.js.map": "/Abhishek/static/js/main.20f750fc.js.map",
     "787.1ed0c42c.chunk.js.map": "/Abhishek/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b02be24.css",
-    "static/js/main.74d94137.js"
+    "static/js/main.20f750fc.js"
   ]
 }
